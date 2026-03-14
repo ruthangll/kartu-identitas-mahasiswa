@@ -1,5 +1,8 @@
 # Kartu Identitas Mahasiswa
 
+## Screenshot Aplikasi
+![Preview Aplikasi](screenshot.jpeg)
+
 ## Nama
 Ruth Angel Sitorus
 
@@ -14,5 +17,5 @@ Aplikasi React Native menggunakan Expo untuk menampilkan kartu identitas mahasis
 - Expo
 - StyleSheet
 
-## Live Preview (Expo Snack)
+## Pratinjau Langsung (Expo Snack)
 https://snack.expo.dev/@ruthangelsitorus/kartu-identitas-mahasiswa-ruth
