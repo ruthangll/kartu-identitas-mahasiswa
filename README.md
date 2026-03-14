@@ -1,21 +1,19 @@
-# Kartu Identitas Mahasiswa
+# Project: Kartu Nama Digital 📱
 
-## Screenshot Aplikasi
+Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
+
+## 📸 Screenshots
 ![Preview Aplikasi](screenshot.jpeg)
 
-## Nama
-Ruth Angel Sitorus
+## 🛠 Tech Stack
+- **Framework:** React Native
+- **Platform:** Expo
+- **Styling:** StyleSheet
 
-## NIM
-243303621245
+## 🚀 Cara Menjalankan
+1. Clone repository ini
+2. Jalankan `npm install`
+3. Jalankan `npx expo start`
 
-## Deskripsi
-Aplikasi React Native menggunakan Expo untuk menampilkan kartu identitas mahasiswa.
-
-## Teknologi yang digunakan
-- React Native
-- Expo
-- StyleSheet
-
-## Pratinjau Langsung (Expo Snack)
+## 🌐 Live Preview (Expo Snack)
 https://snack.expo.dev/@ruthangelsitorus/kartu-identitas-mahasiswa-ruth
